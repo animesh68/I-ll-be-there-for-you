@@ -1,6 +1,9 @@
 I'll Be There For You 🌱
+
 https://animesh68.github.io/I-ll-be-there-for-you/
+
 Overview
+
 I'll Be There For You is a mental wellness web platform designed to provide instant emotional support. It offers an AI-powered chat companion for empathetic listening, guided journaling to encourage reflection, and community features for anonymous peer support. The goal is to make mental health assistance more accessible, private, and stigma-free.
 
 Tech Stack 🛠️
