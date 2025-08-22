@@ -38,11 +38,21 @@ Scalability (Future Roadmap):
 - Enable community features with moderation tools.
 
 Screenshots 📸
+
 Homepage
+
 <img width="1885" height="927" alt="image" src="https://github.com/user-attachments/assets/ab68e45b-65ef-477f-81d3-0e4dd3b2fc54" />
 
 Chat Interface
+
 <img width="1652" height="925" alt="image" src="https://github.com/user-attachments/assets/e2f2b9c5-fe49-4cda-9c5a-805ff7329f52" />
 
 Journaling Interface
+
 <img width="1919" height="921" alt="image" src="https://github.com/user-attachments/assets/214082b7-c7dd-4e74-8bea-2f16a781b0dc" />
+
+AI Tools Used 🤖
+
+- ChatGPT: Implemented in JavaScript using randomized supportive responses and some snippets of code
+- Loveable.dev (for AI demo version of the site)
+- checkout the site here - https://calm-companion-page.lovable.app/
