@@ -53,6 +53,4 @@ Journaling Interface
 
 AI Tools Used 🤖
 
-- ChatGPT: Implemented in JavaScript using randomized supportive responses and some snippets of code
-- Loveable.dev (for AI demo version of the site)
-- checkout the site here - https://calm-companion-page.lovable.app/
+- ChatGPT: Implemented in JavaScript using randomized supportive responses and some snippets of code.
