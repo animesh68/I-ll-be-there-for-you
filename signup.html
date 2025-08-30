@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sign Up - I'll be there for you</title>
+  <link rel="stylesheet" href="signup.css" />
+</head>
+<body>
+  <div class="signup-container">
+    <h2>Create Your Account 💜</h2>
+    <form id="signup-form">
+      <input type="text" id="name" placeholder="Full Name" required />
+      <input type="email" id="email" placeholder="Email" required />
+      <button type="submit">Sign Up</button>
+    </form>
+    <p class="back-home">
+      <a href="index.html">← Back to Home</a>
+    </p>
+  </div>
+
+  <script>
+    document.getElementById("signup-form").addEventListener("submit", e => {
+      e.preventDefault();
+
+      const name = document.getElementById("name").value;
+      const email = document.getElementById("email").value;
+
+      // Save to localStorage
+      localStorage.setItem("user", JSON.stringify({ name, email }));
+
+      // Redirect to home
+      window.location.href = "index.html";
+    });
+  </script>
+</body>
+</html>
