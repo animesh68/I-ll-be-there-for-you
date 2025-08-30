@@ -264,6 +264,7 @@ footer {
   color: #5c5470;
   margin-top: 10px;
 }
+/* --- Inline Mood Tracker (homepage) --- */
 .mood-inline {
   max-width: 560px;
   margin: 24px auto 0;
@@ -337,4 +338,3 @@ footer {
   color: #4a4a6a;
   font-weight: 500;
 }
-
